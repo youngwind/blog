@@ -10,3 +10,4 @@
 7. [babel配置文件的使用](https://github.com/youngwind/blog/issues/2)
 8. [config.js文件引入env字段区分测试和开发环境](https://github.com/youngwind/blog/issues/8)
 9. [react 禁止“事件冒泡” ](https://github.com/youngwind/blog/issues/9)
+10. [redux精简代码之--抽象select函数和mapDispatchToProps函数](https://github.com/youngwind/blog/issues/10)
