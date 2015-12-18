@@ -8,3 +8,4 @@
 5. [利用代码片段偷懒：dash snippets](https://github.com/youngwind/blog/issues/6)
 6. [gulp-preprocess 让你的项目只需要一个配置文件](https://github.com/youngwind/blog/issues/7)
 7. [babel配置文件的使用](https://github.com/youngwind/blog/issues/2)
+8. [config.js文件引入env字段区分测试和开发环境](https://github.com/youngwind/blog/issues/8)
