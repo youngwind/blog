@@ -12,3 +12,4 @@
 9. [react 禁止“事件冒泡” ](https://github.com/youngwind/blog/issues/9)
 10. [redux精简代码之--抽象select函数和mapDispatchToProps函数](https://github.com/youngwind/blog/issues/10)
 11. [redux精简代码之--actionType与redux-action-utils](https://github.com/youngwind/blog/issues/11)
+12. [单元测试之：mocha和chai](https://github.com/youngwind/blog/issues/12)
