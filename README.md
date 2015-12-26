@@ -13,3 +13,4 @@
 10. [redux精简代码之--抽象select函数和mapDispatchToProps函数](https://github.com/youngwind/blog/issues/10)
 11. [redux精简代码之--actionType与redux-action-utils](https://github.com/youngwind/blog/issues/11)
 12. [单元测试之：mocha和chai](https://github.com/youngwind/blog/issues/12)
+13. [代码质量之：eslint](https://github.com/youngwind/blog/issues/13)
