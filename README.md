@@ -15,3 +15,5 @@
 12. [单元测试之：mocha和chai](https://github.com/youngwind/blog/issues/12)
 13. [代码质量之：eslint](https://github.com/youngwind/blog/issues/13)
 14. [在react中使用箭头函数引发的对this的思考](https://github.com/youngwind/blog/issues/14)
+15. [初探react-native踩到的一些坑以及解决方案](https://github.com/youngwind/blog/issues/15)
+16. [react-native：寻找像写scss那样写react native 样式的方法](https://github.com/youngwind/blog/issues/16)
