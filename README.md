@@ -18,3 +18,4 @@
 15. [初探react-native踩到的一些坑以及解决方案](https://github.com/youngwind/blog/issues/15)
 16. [react-native：寻找像写scss那样写react native 样式的方法](https://github.com/youngwind/blog/issues/16)
 17. [react-router 与 history的版本匹配问题](https://github.com/youngwind/blog/issues/17)
+18. [组件编写规范之：proptypes](https://github.com/youngwind/blog/issues/18)
