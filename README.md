@@ -20,3 +20,4 @@
 17. [react-router 与 history的版本匹配问题](https://github.com/youngwind/blog/issues/17)
 18. [组件编写规范之：proptypes](https://github.com/youngwind/blog/issues/18)
 19. [代码质量之：scss-lint](https://github.com/youngwind/blog/issues/19)
+20. [全局css的终结——css module](https://github.com/youngwind/blog/issues/20)
