@@ -23,3 +23,4 @@
 20. [全局css的终结——css module](https://github.com/youngwind/blog/issues/20)
 21. [scss-lint实战碰到的一些问题以及解决方案](https://github.com/youngwind/blog/issues/21)
 22. [css样式融合与类继承](https://github.com/youngwind/blog/issues/22)
+23. [从gulpfile.js的warning联想到软件的腐败](https://github.com/youngwind/blog/issues/23)
