@@ -24,3 +24,6 @@
 21. [scss-lint实战碰到的一些问题以及解决方案](https://github.com/youngwind/blog/issues/21)
 22. [css样式融合与类继承](https://github.com/youngwind/blog/issues/22)
 23. [从gulpfile.js的warning联想到软件的腐败](https://github.com/youngwind/blog/issues/23)
+24. [ie8 上传文件后提示下载文件](https://github.com/youngwind/blog/issues/24)
+25. [ie8 placeholder兼容性解决方案](https://github.com/youngwind/blog/issues/25)
+26. [ie8 chartjs兼容性解决方案](https://github.com/youngwind/blog/issues/26)
