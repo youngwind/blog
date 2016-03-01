@@ -32,3 +32,4 @@
 29. [ie8 chartjs兼容性解决方案](https://github.com/youngwind/blog/issues/29)
 30. [利用缓存缩短npm install的时间](https://github.com/youngwind/blog/issues/30)
 31. [浏览器特性检测工具：Modernizr ](https://github.com/youngwind/blog/issues/31)
+32. [函数自定义属性](https://github.com/youngwind/blog/issues/32)
