@@ -33,3 +33,5 @@
 30. [利用缓存缩短npm install的时间](https://github.com/youngwind/blog/issues/30)
 31. [浏览器特性检测工具：Modernizr ](https://github.com/youngwind/blog/issues/31)
 32. [函数自定义属性](https://github.com/youngwind/blog/issues/32)
+33. [es5-shim和es5-sham](https://github.com/youngwind/blog/issues/33)
+34. [Error: Does Not Satisfy Its Siblings' peerDependencies Requirements ](https://github.com/youngwind/blog/issues/34)
