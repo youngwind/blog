@@ -35,3 +35,5 @@
 32. [函数自定义属性](https://github.com/youngwind/blog/issues/32)
 33. [es5-shim和es5-sham](https://github.com/youngwind/blog/issues/33)
 34. [Error: Does Not Satisfy Its Siblings' peerDependencies Requirements ](https://github.com/youngwind/blog/issues/34)
+35. [jquery.cursor.js:自己编写的光标控制插件](https://github.com/youngwind/blog/issues/35)
+36. [IE8和IE9跨域请求数据兼容性解决方案](https://github.com/youngwind/blog/issues/36)
