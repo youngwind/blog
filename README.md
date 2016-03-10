@@ -38,3 +38,4 @@
 35. [jquery.cursor.js:自己编写的光标控制插件](https://github.com/youngwind/blog/issues/35)
 36. [IE8和IE9跨域请求数据兼容性解决方案](https://github.com/youngwind/blog/issues/36)
 37. [IE8 max-width失效引起的对meta标签的思考](https://github.com/youngwind/blog/issues/37)
+38. [一些小技巧的总结](https://github.com/youngwind/blog/issues/38)
