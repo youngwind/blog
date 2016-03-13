@@ -39,3 +39,7 @@
 36. [IE8和IE9跨域请求数据兼容性解决方案](https://github.com/youngwind/blog/issues/36)
 37. [IE8 max-width失效引起的对meta标签的思考](https://github.com/youngwind/blog/issues/37)
 38. [一些小技巧的总结](https://github.com/youngwind/blog/issues/38)
+39. [How to remove "sudo" when npm install -g](https://github.com/youngwind/blog/issues/39)
+40. [变量检查校验相关：is.js、validator 、JSVerbalExpressions](https://github.com/youngwind/blog/issues/40)
+41. [终端交互——inquire.js](https://github.com/youngwind/blog/issues/41)
+42. [Selectivizr：让IE6~IE8支持CSS3高级选择器](https://github.com/youngwind/blog/issues/42)
