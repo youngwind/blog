@@ -45,3 +45,4 @@
 42. [Selectivizr：让IE6~IE8支持CSS3高级选择器](https://github.com/youngwind/blog/issues/42)
 43. [nodejs使用mysql包操作数据库](https://github.com/youngwind/blog/issues/43)
 44. [nodejs使用sequelize操作数据库](https://github.com/youngwind/blog/issues/44)
+45. [自己动手写express中间件](https://github.com/youngwind/blog/issues/45)
