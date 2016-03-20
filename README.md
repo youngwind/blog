@@ -46,3 +46,5 @@
 43. [nodejs使用mysql包操作数据库](https://github.com/youngwind/blog/issues/43)
 44. [nodejs使用sequelize操作数据库](https://github.com/youngwind/blog/issues/44)
 45. [自己动手写express中间件](https://github.com/youngwind/blog/issues/45)
+46. [与脚手架大战：回合1](https://github.com/youngwind/blog/issues/46)
+47. [与脚手架大战：回合2](https://github.com/youngwind/blog/issues/47)
