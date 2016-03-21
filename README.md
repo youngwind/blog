@@ -48,3 +48,4 @@
 45. [自己动手写express中间件](https://github.com/youngwind/blog/issues/45)
 46. [与脚手架大战：回合1](https://github.com/youngwind/blog/issues/46)
 47. [与脚手架大战：回合2](https://github.com/youngwind/blog/issues/47)
+48. [shell.js与yargs命令行开发](https://github.com/youngwind/blog/issues/48)
