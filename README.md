@@ -50,3 +50,5 @@
 47. [与脚手架大战：回合2](https://github.com/youngwind/blog/issues/47)
 48. [shell.js与yargs命令行开发](https://github.com/youngwind/blog/issues/48)
 49. [ES6 generator 、yield 与co](https://github.com/youngwind/blog/issues/49)
+50. [ie兼容性问题记录](https://github.com/youngwind/blog/issues/50)
+51. [nodejs redis实战--如何写登录模块](https://github.com/youngwind/blog/issues/51)
