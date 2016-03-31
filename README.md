@@ -52,3 +52,6 @@
 49. [ES6 generator 、yield 与co](https://github.com/youngwind/blog/issues/49)
 50. [ie兼容性问题记录](https://github.com/youngwind/blog/issues/50)
 51. [nodejs redis实战--如何写登录模块](https://github.com/youngwind/blog/issues/51)
+52. [自己动手写todolist的后端](https://github.com/youngwind/blog/issues/52)
+53. [try...catch、express与co错误捕获](https://github.com/youngwind/blog/issues/53)
+54. [rap与mock：接口定义与生成平台](https://github.com/youngwind/blog/issues/54)
