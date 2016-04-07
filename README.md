@@ -56,3 +56,4 @@
 53. [try...catch、express与co错误捕获](https://github.com/youngwind/blog/issues/53)
 54. [rap与mock：接口定义与生成平台](https://github.com/youngwind/blog/issues/54)
 55. [交互动画系列之一：解决bundle.js首次加载动画问题](https://github.com/youngwind/blog/issues/55)
+56. [交互动画系列之二：赛贝尔曲线 ](https://github.com/youngwind/blog/issues/56)
