@@ -58,3 +58,4 @@
 55. [交互动画系列之一：解决bundle.js首次加载动画问题](https://github.com/youngwind/blog/issues/55)
 56. [交互动画系列之二：赛贝尔曲线 ](https://github.com/youngwind/blog/issues/56)
 57. [交互动画系列之三：react动画 ](https://github.com/youngwind/blog/issues/57)
+58. [redux使用的反思：状态存储 ](https://github.com/youngwind/blog/issues/58)
