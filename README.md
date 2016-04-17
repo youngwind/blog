@@ -63,3 +63,4 @@
 60. [chief系列之一：总序&&从第一行代码开始](https://github.com/youngwind/blog/issues/60)
 61. [react-css-transition实战](https://github.com/youngwind/blog/issues/61)
 62. [异步回调更优雅的解决方式：async](https://github.com/youngwind/blog/issues/62)
+63. [thief系列之二：从获取DOM和增删类中看js如何构造一个类](https://github.com/youngwind/blog/issues/63)
