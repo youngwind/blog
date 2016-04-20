@@ -65,3 +65,4 @@
 62. [异步回调更优雅的解决方式：async](https://github.com/youngwind/blog/issues/62)
 63. [thief系列之二：从获取DOM和增删类中看js如何构造一个类](https://github.com/youngwind/blog/issues/63)
 64. [webpack打包bundle.js依赖分析](https://github.com/youngwind/blog/issues/64)
+65. [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65)
