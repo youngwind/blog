@@ -66,3 +66,4 @@
 63. [thief系列之二：从获取DOM和增删类中看js如何构造一个类](https://github.com/youngwind/blog/issues/63)
 64. [webpack打包bundle.js依赖分析](https://github.com/youngwind/blog/issues/64)
 65. [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65)
+66. [使用react-transition-group引发的this.setState异步问题](https://github.com/youngwind/blog/issues/66)
