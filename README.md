@@ -72,3 +72,4 @@
 69. [thief系列之三：从实现链式调用中看类数组对象与级联](https://github.com/youngwind/blog/issues/69)
 70. [自己动手写一个GithubStarManager](https://github.com/youngwind/blog/issues/70)
 71. [Mongodb与Mongoose的学习体会](https://github.com/youngwind/blog/issues/71)
+72. [浅谈http报文与请求体格式](https://github.com/youngwind/blog/issues/72)
