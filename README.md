@@ -74,3 +74,4 @@
 71. [Mongodb与Mongoose的学习体会](https://github.com/youngwind/blog/issues/71)
 72. [浅谈http报文与请求体格式](https://github.com/youngwind/blog/issues/72)
 73. [浏览器history api的研究](https://github.com/youngwind/blog/issues/73)
+74. [thief系列之四：从实现getJSON中探索XHR和promise](https://github.com/youngwind/blog/issues/74)
