@@ -76,3 +76,4 @@
 73. [浏览器history api的研究](https://github.com/youngwind/blog/issues/73)
 74. [thief系列之四：从实现getJSON中探索XHR和promise](https://github.com/youngwind/blog/issues/74)
 75. [真机远程调试：chrome://inspect](https://github.com/youngwind/blog/issues/75)
+76. [JSBridge实现原理探索：以toast为例](https://github.com/youngwind/blog/issues/76)
