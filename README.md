@@ -1,6 +1,7 @@
 # blog
 梁少峰的个人博客
 
+79. [Hybrid App中web资源的离线存储与更新机制研究](https://github.com/youngwind/blog/issues/79)
 78. [我为什么要研究Hybrid App ](https://github.com/youngwind/blog/issues/78)
 77. [利用hammer.js解决300ms延时](https://github.com/youngwind/blog/issues/77)
 76. [JSBridge实现原理探索：以toast为例](https://github.com/youngwind/blog/issues/76)
