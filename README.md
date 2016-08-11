@@ -1,6 +1,8 @@
 # blog
 梁少峰的个人博客
 
+81. [如何开发一个移动web UI组件库：vue插件篇](https://github.com/youngwind/blog/issues/81)
+80. [如何开发一个移动web UI组件库：构架篇](https://github.com/youngwind/blog/issues/80)
 79. [Hybrid App中web资源的离线存储与更新机制研究](https://github.com/youngwind/blog/issues/79)
 78. [我为什么要研究Hybrid App ](https://github.com/youngwind/blog/issues/78)
 77. [利用hammer.js解决300ms延时](https://github.com/youngwind/blog/issues/77)
