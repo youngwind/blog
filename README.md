@@ -1,6 +1,7 @@
 # blog
 梁少峰的个人博客
 
+82. [如何开发一个移动web UI组件库：适配篇](https://github.com/youngwind/blog/issues/82)
 81. [如何开发一个移动web UI组件库：vue插件篇](https://github.com/youngwind/blog/issues/81)
 80. [如何开发一个移动web UI组件库：构架篇](https://github.com/youngwind/blog/issues/80)
 79. [Hybrid App中web资源的离线存储与更新机制研究](https://github.com/youngwind/blog/issues/79)
