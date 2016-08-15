@@ -1,6 +1,7 @@
 # blog
 梁少峰的个人博客
 
+83. [如何编写一个vue自定义指令](https://github.com/youngwind/blog/issues/83)
 82. [如何开发一个移动web UI组件库：适配篇](https://github.com/youngwind/blog/issues/82)
 81. [如何开发一个移动web UI组件库：vue插件篇](https://github.com/youngwind/blog/issues/81)
 80. [如何开发一个移动web UI组件库：构架篇](https://github.com/youngwind/blog/issues/80)
