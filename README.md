@@ -1,6 +1,7 @@
 # blog
 梁少峰的个人博客
 
+85. [vue早期源码学习系列之二：如何监听一个数组的变化](https://github.com/youngwind/blog/issues/85)
 84. [vue早期源码学习系列之一：如何监听一个对象的变化](https://github.com/youngwind/blog/issues/84)
 83. [如何编写一个vue自定义指令](https://github.com/youngwind/blog/issues/83)
 82. [如何开发一个移动web UI组件库：适配篇](https://github.com/youngwind/blog/issues/82)
