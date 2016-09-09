@@ -1,6 +1,7 @@
 # blog
 梁少峰的个人博客
 
+89. [vue早期源码学习系列之六：如何实现计算属性](https://github.com/youngwind/blog/issues/89)
 88. [vue早期源码学习系列之五：批处理更新DOM](https://github.com/youngwind/blog/issues/88)
 87. [vue早期源码学习系列之四：如何实现动态数据绑定](https://github.com/youngwind/blog/issues/87)
 86. [vue早期源码学习系列之三：如何写一个watch库](https://github.com/youngwind/blog/issues/86)
