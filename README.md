@@ -1,6 +1,7 @@
 # blog
 梁少峰的个人博客
 
+91. [vue早期源码学习系列之八：如何实现"v-repeat"列表渲染](https://github.com/youngwind/blog/issues/91)
 90. [vue早期源码学习系列之七：如何实现"v-if"条件渲染](https://github.com/youngwind/blog/issues/90)
 89. [vue早期源码学习系列之六：如何实现计算属性](https://github.com/youngwind/blog/issues/89)
 88. [vue早期源码学习系列之五：批处理更新DOM](https://github.com/youngwind/blog/issues/88)
