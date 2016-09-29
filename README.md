@@ -57,7 +57,7 @@
 7. [babel配置文件的使用](https://github.com/youngwind/blog/issues/2)
 
 
-## nodejs
+## Nodejs
 
 71. [Mongodb与Mongoose的学习体会](https://github.com/youngwind/blog/issues/71)
 70. [自己动手写一个GithubStarManager](https://github.com/youngwind/blog/issues/70)
@@ -68,7 +68,7 @@
 43. [nodejs使用mysql包操作数据库](https://github.com/youngwind/blog/issues/43)
 53. [try...catch、express与co错误捕获](https://github.com/youngwind/blog/issues/53)
 
-## 类JQuery
+## JQuery
 
 74. [thief系列之四：从实现getJSON中探索XHR和promise](https://github.com/youngwind/blog/issues/74)
 69. [thief系列之三：从实现链式调用中看类数组对象与级联](https://github.com/youngwind/blog/issues/69)
@@ -79,7 +79,7 @@
 
 
 
-## 工程与构建
+## 工程化
 65. [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65)
 64. [webpack打包bundle.js依赖分析](https://github.com/youngwind/blog/issues/64)
 48. [shell.js与yargs命令行开发](https://github.com/youngwind/blog/issues/48)
@@ -87,9 +87,6 @@
 46. [与脚手架大战：回合1](https://github.com/youngwind/blog/issues/46)
 54. [rap与mock：接口定义与生成平台](https://github.com/youngwind/blog/issues/54)
 41. [终端交互——inquire.js](https://github.com/youngwind/blog/issues/41)
-39. [How to remove "sudo" when npm install -g](https://github.com/youngwind/blog/issues/39)
-33. [Error: Does Not Satisfy Its Siblings' peerDependencies Requirements](https://github.com/youngwind/blog/issues/33)
-30. [利用缓存缩短npm install的时间](https://github.com/youngwind/blog/issues/30)
 26. [从gulpfile.js的warning联想到软件的腐败](https://github.com/youngwind/blog/issues/26)
 21. [scss-lint实战碰到的一些问题以及解决方案](https://github.com/youngwind/blog/issues/21)
 19. [代码质量之：scss-lint](https://github.com/youngwind/blog/issues/19)
@@ -117,8 +114,11 @@
 72. [浅谈http报文与请求体格式](https://github.com/youngwind/blog/issues/72)
 59. [将数组转化成自定义hash键的对象](https://github.com/youngwind/blog/issues/59)
 40. [变量检查校验相关：is.js、validator 、JSVerbalExpressions](https://github.com/youngwind/blog/issues/40)
+39. [How to remove "sudo" when npm install -g](https://github.com/youngwind/blog/issues/39)
 38. [一些小技巧的总结](https://github.com/youngwind/blog/issues/38)
+33. [Error: Does Not Satisfy Its Siblings' peerDependencies Requirements](https://github.com/youngwind/blog/issues/33)
 32. [函数自定义属性](https://github.com/youngwind/blog/issues/32)
+30. [利用缓存缩短npm install的时间](https://github.com/youngwind/blog/issues/30)
 24. [css样式融合与类继承](https://github.com/youngwind/blog/issues/24)
 20. [全局css的终结——css module](https://github.com/youngwind/blog/issues/20)
 12. [单元测试之：mocha和chai](https://github.com/youngwind/blog/issues/12)
