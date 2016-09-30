@@ -4,7 +4,7 @@
 订阅请点watch, 收藏请点star, 不要点fork
 
 ## Vue
-
+92. [vue源码学习系列之九：组件化原理探索](https://github.com/youngwind/blog/issues/91)
 91. [vue早期源码学习系列之八：如何实现"v-repeat"列表渲染](https://github.com/youngwind/blog/issues/91)
 90. [vue早期源码学习系列之七：如何实现"v-if"条件渲染](https://github.com/youngwind/blog/issues/90)
 89. [vue早期源码学习系列之六：如何实现计算属性](https://github.com/youngwind/blog/issues/89)
