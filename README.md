@@ -54,6 +54,7 @@
 
 ## [ES6](https://github.com/youngwind/blog/labels/ES6)
 
+96. [你不知道的回调、异步与生成器](https://github.com/youngwind/blog/issues/96)
 95. [数组遍历、for...of、Interator接口与迭代器模式](https://github.com/youngwind/blog/issues/95)
 68. [babel初学者的一些常见误区](https://github.com/youngwind/blog/issues/68)
 62. [异步回调更优雅的解决方式：async](https://github.com/youngwind/blog/issues/62)
