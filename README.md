@@ -52,8 +52,9 @@
 10. [redux精简代码之--抽象select函数和mapDispatchToProps函数](https://github.com/youngwind/blog/issues/10)
 9. [react 禁止“事件冒泡” ](https://github.com/youngwind/blog/issues/9)
 
-## [ES6](https://github.com/youngwind/blog/labels/ES6)
+## [JS](https://github.com/youngwind/blog/labels/JS)
 
+98. [如何实现一个异步模块加载器--以requireJS为例](https://github.com/youngwind/blog/issues/98)
 97. [Mixin、多重继承与装饰者模式](https://github.com/youngwind/blog/issues/97)
 96. [你不知道的回调、异步与生成器](https://github.com/youngwind/blog/issues/96)
 95. [数组遍历、for...of、Interator接口与迭代器模式](https://github.com/youngwind/blog/issues/95)
