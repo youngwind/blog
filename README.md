@@ -23,7 +23,8 @@
 
 ## [JS](https://github.com/youngwind/blog/labels/JS)
 
-99. [webpack源码学习：如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99)
+100. [webpack源码学习系列之二：code-splitting（代码切割）](https://github.com/youngwind/blog/issues/100)
+99. [webpack源码学习系列之一：如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99)
 98. [如何实现一个异步模块加载器--以requireJS为例](https://github.com/youngwind/blog/issues/98)
 97. [Mixin、多重继承与装饰者模式](https://github.com/youngwind/blog/issues/97)
 96. [你不知道的回调、异步与生成器](https://github.com/youngwind/blog/issues/96)
