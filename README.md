@@ -1,7 +1,7 @@
 # blog
 梁少峰的个人博客
 
-订阅请点watch, 收藏请点star, 不要点fork
+订阅请点 watch, 收藏请点 star, 不要点 fork
 
 ## [Vue](https://github.com/youngwind/blog/labels/Vue)
 
@@ -21,10 +21,16 @@
 81. [如何开发一个移动web UI组件库：vue插件篇](https://github.com/youngwind/blog/issues/81)
 80. [如何开发一个移动web UI组件库：构架篇](https://github.com/youngwind/blog/issues/80)
 
-## [JS](https://github.com/youngwind/blog/labels/JS)
+## [webpack](https://github.com/youngwind/blog/labels/webpack)
 
+101. [webpack源码学习系列之三：loader 机制](https://github.com/youngwind/blog/issues/101)
 100. [webpack源码学习系列之二：code-splitting（代码切割）](https://github.com/youngwind/blog/issues/100)
 99. [webpack源码学习系列之一：如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99)
+65. [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65)
+64. [webpack打包bundle.js依赖分析](https://github.com/youngwind/blog/issues/64)
+
+## [JS](https://github.com/youngwind/blog/labels/JS)
+
 98. [如何实现一个异步模块加载器--以requireJS为例](https://github.com/youngwind/blog/issues/98)
 97. [Mixin、多重继承与装饰者模式](https://github.com/youngwind/blog/issues/97)
 96. [你不知道的回调、异步与生成器](https://github.com/youngwind/blog/issues/96)
@@ -89,8 +95,6 @@
 
 
 ## [工程化](https://github.com/youngwind/blog/labels/%E5%B7%A5%E7%A8%8B%E5%8C%96)
-65. [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65)
-64. [webpack打包bundle.js依赖分析](https://github.com/youngwind/blog/issues/64)
 48. [shell.js与yargs命令行开发](https://github.com/youngwind/blog/issues/48)
 47. [与脚手架大战：回合2](https://github.com/youngwind/blog/issues/47)
 46. [与脚手架大战：回合1](https://github.com/youngwind/blog/issues/46)
