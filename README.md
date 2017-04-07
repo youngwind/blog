@@ -3,6 +3,9 @@
 
 订阅请点 watch, 收藏请点 star, 不要点 fork
 
+## [V8](https://github.com/youngwind/blog/labels/V8)
+102. [V8引擎探索：如何注入全局变量](https://github.com/youngwind/blog/issues/102)
+
 ## [Vue](https://github.com/youngwind/blog/labels/Vue)
 
 94. [vue源码学习系列之十一：组件化原理探索(父子组件通信)](https://github.com/youngwind/blog/issues/94)
