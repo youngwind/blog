@@ -9,7 +9,7 @@
 
 ## [Vue](https://github.com/youngwind/blog/labels/Vue)
 
-94. [vue源码学习系列之十一：组件化原理探索(父子组件通信)](https://github.com/youngwind/blog/issues/94)
+1. [vue源码学习系列之十一：组件化原理探索(父子组件通信)](https://github.com/youngwind/blog/issues/94)
 93. [vue源码学习系列之十：组件化原理探索(动态props)](https://github.com/youngwind/blog/issues/93)
 92. [vue源码学习系列之九：组件化原理探索(静态props)](https://github.com/youngwind/blog/issues/92)
 91. [vue早期源码学习系列之八：如何实现"v-repeat"列表渲染](https://github.com/youngwind/blog/issues/91)
@@ -27,7 +27,7 @@
 
 ## [webpack](https://github.com/youngwind/blog/labels/webpack)
 
-101. [webpack源码学习系列之三：loader 机制](https://github.com/youngwind/blog/issues/101)
+1. [webpack源码学习系列之三：loader 机制](https://github.com/youngwind/blog/issues/101)
 100. [webpack源码学习系列之二：code-splitting（代码切割）](https://github.com/youngwind/blog/issues/100)
 99. [webpack源码学习系列之一：如何实现一个简单的webpack](https://github.com/youngwind/blog/issues/99)
 65. [webpack打包bundle.js体积大小优化](https://github.com/youngwind/blog/issues/65)
@@ -35,7 +35,8 @@
 
 ## [JS](https://github.com/youngwind/blog/labels/JS)
 
-98. [如何实现一个异步模块加载器--以requireJS为例](https://github.com/youngwind/blog/issues/98)
+
+1. [如何实现一个异步模块加载器--以requireJS为例](https://github.com/youngwind/blog/issues/98)
 97. [Mixin、多重继承与装饰者模式](https://github.com/youngwind/blog/issues/97)
 96. [你不知道的回调、异步与生成器](https://github.com/youngwind/blog/issues/96)
 95. [数组遍历、for...of、Interator接口与迭代器模式](https://github.com/youngwind/blog/issues/95)
@@ -47,7 +48,7 @@
 
 ## [移动H5](https://github.com/youngwind/blog/labels/%E7%A7%BB%E5%8A%A8H5)
 
-79. [Hybrid App中web资源的离线存储与更新机制研究](https://github.com/youngwind/blog/issues/79)
+1. [Hybrid App中web资源的离线存储与更新机制研究](https://github.com/youngwind/blog/issues/79)
 78. [我为什么要研究Hybrid App ](https://github.com/youngwind/blog/issues/78)
 77. [利用hammer.js解决300ms延时](https://github.com/youngwind/blog/issues/77)
 76. [JSBridge实现原理探索：以toast为例](https://github.com/youngwind/blog/issues/76)
@@ -56,7 +57,7 @@
 
 ## [React](https://github.com/youngwind/blog/labels/React)
 
-67. [如何在redux中捕获处理ajax请求错误](https://github.com/youngwind/blog/issues/67)
+1. [如何在redux中捕获处理ajax请求错误](https://github.com/youngwind/blog/issues/67)
 66. [使用react-transition-group引发的this.setState异步问题](https://github.com/youngwind/blog/issues/66)
 61. [react-css-transition实战](https://github.com/youngwind/blog/issues/61)
 58. [redux使用的反思：状态存储 ](https://github.com/youngwind/blog/issues/58)
@@ -78,7 +79,7 @@
 
 ## [Nodejs](https://github.com/youngwind/blog/labels/Nodejs)
 
-71. [Mongodb与Mongoose的学习体会](https://github.com/youngwind/blog/issues/71)
+1. [Mongodb与Mongoose的学习体会](https://github.com/youngwind/blog/issues/71)
 70. [自己动手写一个GithubStarManager](https://github.com/youngwind/blog/issues/70)
 52. [自己动手写todolist的后端](https://github.com/youngwind/blog/issues/52)
 51. [nodejs redis实战--如何写登录模块](https://github.com/youngwind/blog/issues/51)
@@ -99,7 +100,7 @@
 
 
 ## [工程化](https://github.com/youngwind/blog/labels/%E5%B7%A5%E7%A8%8B%E5%8C%96)
-48. [shell.js与yargs命令行开发](https://github.com/youngwind/blog/issues/48)
+1. [shell.js与yargs命令行开发](https://github.com/youngwind/blog/issues/48)
 47. [与脚手架大战：回合2](https://github.com/youngwind/blog/issues/47)
 46. [与脚手架大战：回合1](https://github.com/youngwind/blog/issues/46)
 54. [rap与mock：接口定义与生成平台](https://github.com/youngwind/blog/issues/54)
@@ -114,7 +115,7 @@
 
 ## [兼容性](https://github.com/youngwind/blog/labels/%E5%85%BC%E5%AE%B9%E6%80%A7)
 
-50. [ie兼容性问题记录](https://github.com/youngwind/blog/issues/50)
+1. [ie兼容性问题记录](https://github.com/youngwind/blog/issues/50)
 42. [Selectivizr：让IE6~IE8支持CSS3高级选择器](https://github.com/youngwind/blog/issues/42)
 37. [IE8 max-width失效引起的对meta标签的思考](https://github.com/youngwind/blog/issues/37)
 36. [IE8和IE9跨域请求数据兼容性解决方案](https://github.com/youngwind/blog/issues/36)
@@ -127,7 +128,7 @@
 
 ## [其他](https://github.com/youngwind/blog/labels/%E5%85%B6%E4%BB%96)
 
-73. [浏览器history api的研究](https://github.com/youngwind/blog/issues/73)
+1. [浏览器history api的研究](https://github.com/youngwind/blog/issues/73)
 72. [浅谈http报文与请求体格式](https://github.com/youngwind/blog/issues/72)
 59. [将数组转化成自定义hash键的对象](https://github.com/youngwind/blog/issues/59)
 40. [变量检查校验相关：is.js、validator 、JSVerbalExpressions](https://github.com/youngwind/blog/issues/40)
