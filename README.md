@@ -7,6 +7,10 @@
 
 ![前端控](./image/前端控二维码.jpg)
 
+## [preact源码](https://github.com/youngwind/blog/labels/preact%20%E6%BA%90%E7%A0%81)
+
+1. [preact 源码学习：JSX解析与DOM渲染](https://github.com/youngwind/blog/issues/103)
+
 ## [V8](https://github.com/youngwind/blog/labels/V8)
 
 1. [V8引擎探索：如何注入全局变量](https://github.com/youngwind/blog/issues/102)
