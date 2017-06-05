@@ -9,8 +9,9 @@
 
 ## [preact源码](https://github.com/youngwind/blog/labels/preact%20%E6%BA%90%E7%A0%81)
 
+1. [preact 源码学习系列之二：组件的渲染与更新](https://github.com/youngwind/blog/issues/104)
 1. [preact 源码学习系列之一：JSX解析与DOM渲染](https://github.com/youngwind/blog/issues/103)
-2. [preact 源码学习系列之二：组件的渲染与更新](https://github.com/youngwind/blog/issues/104)
+
 
 ## [V8](https://github.com/youngwind/blog/labels/V8)
 
