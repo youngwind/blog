@@ -68,6 +68,7 @@
 
 ## [React](https://github.com/youngwind/blog/labels/React)
 
+1. [React 事件代理与 stopImmediatePropagation](https://github.com/youngwind/blog/issues/107)
 1. [如何在redux中捕获处理ajax请求错误](https://github.com/youngwind/blog/issues/67)
 66. [使用react-transition-group引发的this.setState异步问题](https://github.com/youngwind/blog/issues/66)
 61. [react-css-transition实战](https://github.com/youngwind/blog/issues/61)
