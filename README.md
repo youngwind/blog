@@ -167,6 +167,6 @@
 鼓励留言，让我认识你。
 
 <figure class="half">
-    <img src="./image/wechat-pay.jpg">
-    <img src="./image/ali-pay.jpg">
+    <img src="./image/wechat-pay.JPG">
+    <img src="./image/ali-pay.JPG">
 </figure>
