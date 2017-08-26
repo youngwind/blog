@@ -159,3 +159,14 @@
 3. [code review](https://github.com/youngwind/blog/issues/4)
 2. [记一次如何找到Object.assign()编译方法的历程](https://github.com/youngwind/blog/issues/3)
 1. [初探lodash](https://github.com/youngwind/blog/issues/1)
+
+# 捐助
+
+为什么要捐助？一篇好文章可以帮助你节省大量的时间，而你的时间是相当宝贵的。
+向文章的作者提供小额捐助，可以鼓励作者写出更好的文章。这是一种良性循环，现在就行动吧！
+鼓励留言，让我认识你。
+
+<figure class="half">
+    <img src="./image/wechat-pay.jpg">
+    <img src="./image/ali-pay.jpg">
+</figure>
