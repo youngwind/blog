@@ -166,7 +166,4 @@
 向文章的作者提供小额捐助，可以鼓励作者写出更好的文章。这是一种良性循环，现在就行动吧！
 鼓励留言，让我认识你。
 
-<figure class="half">
-    <img src="./image/wechat-pay.JPG">
-    <img src="./image/ali-pay.JPG">
-</figure>
+![打赏](./image/wechat-ali-pay.png)
