@@ -7,6 +7,7 @@
 
 ![前端控](./image/前端控二维码.jpg)
 
+
 ## [preact源码](https://github.com/youngwind/blog/labels/preact%20%E6%BA%90%E7%A0%81)
 
 1. [preact 源码学习系列之二：组件的渲染与更新](https://github.com/youngwind/blog/issues/104)
@@ -167,3 +168,9 @@
 鼓励留言，让我认识你。
 
 ![打赏](./image/wechat-ali-pay.png)
+
+# 订阅方式
+我们都知道，GitHub Blog 的订阅方式用起来实在是不尽人意，star 的话接收不到新 issue 通知，watch 的话有关无关通通都会接到通知，不想看的还得一个一个 unsubscribe，挺麻烦的。怎么办呢？下面是一些可供参考现成解决方案。
+
+1. [github-blogs 优化意见收集](https://github.com/yutingzhao1991/github-blogs-weekly/issues/18), By yutingzhao1991
+2. [如何使用 Feed 订阅 GitHub Issues](https://imsun.net/posts/gh-feed/), By 孙士权
