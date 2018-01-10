@@ -21,6 +21,7 @@
 
 ## [Vue](https://github.com/youngwind/blog/labels/Vue)
 
+1. [Vue SSR Demo](https://github.com/youngwind/blog/issues/112)
 1. [vue源码学习系列之十一：组件化原理探索(父子组件通信)](https://github.com/youngwind/blog/issues/94)
 93. [vue源码学习系列之十：组件化原理探索(动态props)](https://github.com/youngwind/blog/issues/93)
 92. [vue源码学习系列之九：组件化原理探索(静态props)](https://github.com/youngwind/blog/issues/92)
