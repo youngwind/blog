@@ -143,6 +143,7 @@
 
 ## [其他](https://github.com/youngwind/blog/labels/%E5%85%B6%E4%BB%96)
 
+1. [浏览器缓存、CacheStorage、Web Worker 与 Service Worker](https://github.com/youngwind/blog/issues/113)
 1. [图解 HTTPS：Charles 捕获 HTTPS 的原理](https://github.com/youngwind/blog/issues/108)
 1. [浏览器history api的研究](https://github.com/youngwind/blog/issues/73)
 72. [浅谈http报文与请求体格式](https://github.com/youngwind/blog/issues/72)
