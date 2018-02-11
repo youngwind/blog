@@ -7,6 +7,10 @@
 
 ![前端控](./image/前端控二维码.jpg)
 
+## 最新文章
+
+1. [前端之问，程序员之问，职业之问](https://github.com/youngwind/blog/issues/114)
+
 
 ## [preact源码](https://github.com/youngwind/blog/labels/preact%20%E6%BA%90%E7%A0%81)
 
