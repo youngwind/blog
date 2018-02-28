@@ -10,6 +10,7 @@
 ## 最新文章
 
 1. [前端之问，程序员之问，职业之问](https://github.com/youngwind/blog/issues/114)
+2. [JSON.parse 三种实现方式](https://github.com/youngwind/blog/issues/115)
 
 
 ## [preact源码](https://github.com/youngwind/blog/labels/preact%20%E6%BA%90%E7%A0%81)
