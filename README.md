@@ -31,8 +31,7 @@
 
 ## 2016年
 
-
-97. [Mixin、多重继承与装饰者模式](https://github.com/youngwind/blog/issues/97)
+1. [Mixin、多重继承与装饰者模式](https://github.com/youngwind/blog/issues/97)
 96. [你不知道的回调、异步与生成器](https://github.com/youngwind/blog/issues/96)
 95. [数组遍历、for...of、Interator接口与迭代器模式](https://github.com/youngwind/blog/issues/95)
 1. [vue源码学习系列之十一：组件化原理探索(父子组件通信)](https://github.com/youngwind/blog/issues/94)
@@ -115,7 +114,7 @@
 
 ## 2015年
 
-17. [react-router 与 history的版本匹配问题](https://github.com/youngwind/blog/issues/17)
+1. [react-router 与 history的版本匹配问题](https://github.com/youngwind/blog/issues/17)
 16. [react-native：寻找像写scss那样写react native 样式的方法](https://github.com/youngwind/blog/issues/16)
 15. [初探react-native踩到的一些坑以及解决方案](https://github.com/youngwind/blog/issues/15)
 14. [在react中使用箭头函数引发的对this的思考](https://github.com/youngwind/blog/issues/14)
