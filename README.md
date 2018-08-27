@@ -9,7 +9,6 @@
 
 ## 2018年
 
-1. [腾讯社招内推（长期有效）](https://github.com/youngwind/blog/issues/116)
 1. [JSON.parse 三种实现方式](https://github.com/youngwind/blog/issues/115)
 1. [前端之问，程序员之问，职业之问](https://github.com/youngwind/blog/issues/114)
 1. [浏览器缓存、CacheStorage、Web Worker 与 Service Worker](https://github.com/youngwind/blog/issues/113)
