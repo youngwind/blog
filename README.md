@@ -5,13 +5,6 @@
 
 想在微信上订阅？欢迎关注公众号"前端控"
 
-![前端控](./image/前端控二维码.jpg)
-
-# 腾讯 AlloyTeam 招人！
-感兴趣的可以先加微信群或者QQ群，慢慢聊。（如果微信群二维码失效，可以先加QQ群）
-![image](https://user-images.githubusercontent.com/8401872/61264359-d7f08600-a7be-11e9-9016-dda1ef010901.png)
-![image](https://user-images.githubusercontent.com/8401872/61264372-e76fcf00-a7be-11e9-8f0f-64af142dfd47.png)
-
 ## 2018年
 
 1. [JSON.parse 三种实现方式](https://github.com/youngwind/blog/issues/115)
